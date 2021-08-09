@@ -1,6 +1,6 @@
 1.
 
-![Account list](/1 task/1.jpg?raw=true "Accounts")
+![Account list](https://github.com/mistakeone/nervos_first_try/blob/master/1%20task/1.jpg?raw=true "Accounts")
 
 2.
 
@@ -10,4 +10,4 @@ https://explorer.nervos.org/aggron/address/ckt1qyqv9y0yzn3w4hqjngjm260c77kx94xnz
 
 3.
 
-![Layer 2 Deposit](/1 task/2.png?raw=true "Layer 2")
+![Layer 2 Deposit](https://github.com/mistakeone/nervos_first_try/blob/master/1%20task/2.png?raw=true "Layer 2")
