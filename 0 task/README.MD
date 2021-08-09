@@ -1,7 +1,8 @@
 Node
 
-![Node](C:\Users\Алекс\Nervos\nervos_first_try\0 task\1.png?raw=true "Node")
+![Node](https://github.com/mistakeone/nervos_first_try/blob/master/0%20task/1.png?raw=true "Node")
 
 
 Indexer
-![Indexer](C:\Users\Алекс\Nervos\nervos_first_try\0 task\222.png?raw=true "Index")
+
+![Indexer](https://github.com/mistakeone/nervos_first_try/blob/master/0%20task/222.png?raw=true "Index")
