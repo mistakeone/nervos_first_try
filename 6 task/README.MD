@@ -1,4 +1,4 @@
-1. ![Call](C:\Users\Алекс\Nervos\nervos_first_try\6 task\7777777.png "Call")
+1. ![Call](https://github.com/mistakeone/nervos_first_try/blob/master/6%20task/7777777.png?raw=true "Call")
 
 2. ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqzu0ac88hkc4htscm9s5w7as0rmzh6frmq9a6vg70pefmqtw0qhqs6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k53cdjz4vwrk0jgx6yp0vyvhlfnaklvqmuq9rqgqqqqqqcqt82td9
 
