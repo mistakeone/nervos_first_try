@@ -1,5 +1,5 @@
 1. 
-![Call](C:\Users\Алекс\Nervos\nervos_first_try\3 task\4444.png "Call")
+![Call](https://github.com/mistakeone/nervos_first_try/blob/master/3%20task/4444.png?raw=true "Call")
 
 2. transactionHash: 0x7e62a1db0590c3953892d108b5316088774d4bcf52a4f0b20372fe764bd5ecd0
 3. Contract Address: 0x7b37177A9f1d1dcE1EC4EE5D9873D658FC0Cda5A
