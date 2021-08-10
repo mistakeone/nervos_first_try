@@ -8,7 +8,8 @@
 
 2. https://github.com/mistakeone/nervos_first_try/tree/master/projects/polyjuice-ported-voting-dapp-master
 
-3. 
+3. Contract address: 0x60bA43082F4E8F78c030b946e3333766B32109E9
+   Tx hash: 0xc479abee8941713e0f0d8e75659c540e211c1091c96748ac089ce1291440d909
 
 ABI;
 
