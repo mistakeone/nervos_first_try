@@ -2,7 +2,7 @@
 
 ![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/8888.png?raw=true "Call")
 ![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/888888.png?raw=true "Call")
-![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/8888881.png?raw=true "Call")
+
 ![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/8888888.png?raw=true "Call")
 ![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/888888888.png?raw=true "Call")
 
