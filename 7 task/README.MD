@@ -1,13 +1,12 @@
-1. ![Call](C:\Users\Алекс\Nervos\nervos_first_try\5 task\66666.png "Call")
-![Call](C:\Users\Алекс\Nervos\nervos_first_try\5 task\66666.png "Call")
-![Call](C:\Users\Алекс\Nervos\nervos_first_try\5 task\66666.png "Call")
-![Call](C:\Users\Алекс\Nervos\nervos_first_try\5 task\66666.png "Call")
-![Call](C:\Users\Алекс\Nervos\nervos_first_try\5 task\66666.png "Call")
-![Call](C:\Users\Алекс\Nervos\nervos_first_try\5 task\66666.png "Call")
-![Call](C:\Users\Алекс\Nervos\nervos_first_try\5 task\66666.png "Call")
+1. ![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/8888.png?raw=true "Call")
+![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/888881.png?raw=true "Call")
+![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/888888.png?raw=true "Call")
+![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/8888881.png?raw=true "Call")
+![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/8888888.png?raw=true "Call")
+![Call](https://github.com/mistakeone/nervos_first_try/blob/master/7%20task/888888888.png?raw=true "Call")
 
 
-2. address of the ERC20 Proxy: 0x2767d4eCCa5EDeAc25b03a46490A0abcA8F11382
+2. https://github.com/mistakeone/nervos_first_try/tree/master/projects/polyjuice-ported-voting-dapp-master
 
 3. 
 
