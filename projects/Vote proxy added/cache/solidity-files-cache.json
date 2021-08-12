@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/alexandra/projects/polyjuice-ported-voting-dapp-master/contracts/Voting.sol": {
+      "lastModificationDate": 1628696604650,
+      "contentHash": "8358570286ee77126e82470b3b1fd6ab",
+      "sourceName": "contracts/Voting.sol",
+      "solcConfig": {
+        "version": "0.4.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.4.18"
+      ],
+      "artifacts": [
+        "Voting"
+      ]
+    },
+    "/home/alexandra/projects/polyjuice-ported-voting-dapp-master/contracts/SudtERC20Proxy.sol": {
+      "lastModificationDate": 1628692228511,
+      "contentHash": "a270ba9217090112218a59c0f1c3d5e6",
+      "sourceName": "contracts/SudtERC20Proxy.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Context",
+        "ERC20",
+        "IERC20"
+      ]
+    }
+  }
+}
